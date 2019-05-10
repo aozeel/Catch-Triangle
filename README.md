@@ -1,5 +1,5 @@
 # Catch-Triangle
-This is a basic 2d flow triangles game
+This is a basic 2d flow triangles game<br>
 You should catch from the triangles for gain points
 
 # How to Start Game
